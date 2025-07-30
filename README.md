@@ -31,7 +31,7 @@
 Simone-Says/
 ├── index.html
 ├── styles.css
-├── game.js
+├── app.js
 └── README.md
 
 
