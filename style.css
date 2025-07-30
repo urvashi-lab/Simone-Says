@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height:200px;
+    width: 200px;
+    border:10px solid black ;
+    border-radius: 20%;
+    margin:2.5rem;
+}
+.violet{
+    background-color: violet;
+}
+.marine{
+    background-color: mediumaquamarine;
+}
+.beige{
+background-color: bisque;
+}
+.pink{
+    background-color:lightcoral;
+}
+.flash{
+    background-color: white;
+}
+#hs{
+    display: flex;
+    justify-content: flex-end;
+}
